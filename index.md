@@ -1,8 +1,9 @@
 # Ivy Kim's First CS193 Homework
 
 Class CS193 allows:
-- Real and convenient coding experience
-- Beneficial assistance from the TAs
+- Real and extensive coding experience
+- Helpful assistance from the TAs
+- Meaningful collaboration with colleagues
 
 ## Welcome to GitHub Pages
 
