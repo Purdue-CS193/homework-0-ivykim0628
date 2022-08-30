@@ -1,6 +1,8 @@
 # Ivy Kim's First CS193 Homework
 
-- TA is Korean
+Class CS193 allows:
+- Real and convenient coding experience
+- Beneficial assistance from the TAs
 
 ## Welcome to GitHub Pages
 
